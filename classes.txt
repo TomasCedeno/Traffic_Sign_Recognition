@@ -1,0 +1,16 @@
+0. 20 km/h
+1. 30 km/h
+2. 50 km/h
+3. 60 km/h
+4. 70 km/h
+5. 80 km/h
+6. 100 km/h
+7. 120 km/h
+8. Adelantar carros
+9. Adelantar camiones
+10. Pare
+11. Vehiculos Pesados
+12. No Pase
+13. Deslizamientos
+14. Niños en la via
+15. Animales en la via
